@@ -1,0 +1,1 @@
+CCTV-2,http://223.110.245.170/PLTV/3/224/3221227207/index.m3u8#http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
