@@ -71,3 +71,4 @@ BTV少儿,http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+##https://dwz.cn/V5SK3H9F
